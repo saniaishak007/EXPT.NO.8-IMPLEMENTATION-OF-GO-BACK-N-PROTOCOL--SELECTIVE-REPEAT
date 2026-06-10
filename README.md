@@ -1,8 +1,10 @@
-# EXPT.NO.9-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SELECTIVE-REPEAT
+# EXPT.NO.8-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SELECTIVE-REPEAT
 # AIM:
 To write and execute a program for Go-Back-N protocol-Selective Repeat.
+
 # EQUIPMENTS REQUIRED:
 Personal Computer Turbo C Compiler
+
 # PROCEDURE:
 8.	Connect two computers in Wired/Wireless LAN.
 9.	Make sure that two computers are in one network and could able to ping each other.
@@ -14,6 +16,7 @@ Personal Computer Turbo C Compiler
 
 # PROGRAM:
 
+```
 #include<stdio.h> void main()
 {
 
@@ -47,12 +50,9 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
+```
 OUTPUT:
-
- 
-
-
-
+<img width="1262" height="672" alt="image" src="https://github.com/user-attachments/assets/599f6847-4319-445d-acad-e64d9b41ca25" />
 
 
 
